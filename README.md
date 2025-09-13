@@ -10,22 +10,23 @@
 
 ### 🚀 About Me:
 - 🏫 **Computer Engineering** student at **Necmettin Erbakan University**.  
-- 🛠️ Member of **Göktürk İHA Software Team**.  
-- 💡 Passionate about **algorithms**, **embedded systems**, and **aerospace technology**.  
-- ✍️ Exploring **C programming**, **Python**, and **Embedded Systems** to bring ideas to life.  
+- 💡 Passionate about **algorithms**, **Deep Learning**, **Machine Learning**, and **aerospace technology**.  
+- ✍️ Exploring **Python**, **C programming**, **Embedded Systems**, and **AI/ML frameworks** to bring ideas to life.  
 
 ---
 
 ### 🧠 Current Focus:
 - 🔍 Solving **Project Euler** and **LeetCode** challenges.  
-- ⚙️ Working on **aerospace technologies**.  
+- 🤖 Developing projects and experiments in **Deep Learning** and **Machine Learning**.  
+- ⚙️ Exploring applications in **aerospace technologies**.  
 
 ---
 
 ### 💻 Tech Stack:
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Deep_Learning-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning">
+  <img src="https://img.shields.io/badge/Machine_Learning-F7DF1E?style=for-the-badge&logo=python&logoColor=black" alt="Machine Learning">
   <img src="https://img.shields.io/badge/Embedded_Systems-00ADD8?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Embedded Systems">
 </p>
 
@@ -40,11 +41,10 @@
 ---
 
 ### 🌟 Fun Facts:
-📚 I love reading books, solving algorithm problems, and constantly learning new things!
+📚 I love reading books, solving algorithm problems, and constantly learning new things in **AI and software development**!
 
 ---
 
 <p align="center">
   💬 Feel free to <a href="mailto:arpaciabdullah5151@gmail.com">reach out</a> if you'd like to collaborate! 🚀  
 </p>
-
