@@ -22,7 +22,7 @@
 ### 📖 Hakkımda
 
 - 🏫 **Necmettin Erbakan Üniversitesi**'nde Bilgisayar Mühendisliği okuyorum.
-- 💡 Algoritmaların gücünü **Yapay Zeka** ve **Makine Öğrenmesi** ile birleştirerek yenilikçi çözümler üretmeyi hedefliyorum.
+- 💡 **Yapay Zeka**, **Makine Öğrenmesi** ve özellikle **Görüntü İşleme (CNN)** alanlarında algoritmaların gücünü kullanarak yenilikçi çözümler üretmeyi hedefliyorum.
 - 💻 **Veri odaklı projeler** geliştirerek, teorik bilgimi pratiğe dönüştürmeyi seviyorum.
 
 ---
@@ -30,7 +30,7 @@
 ### 🎯 Güncel Çalışmalarım
 
 - 🌱 **Project Euler** ve **LeetCode** üzerinde problem çözme yeteneklerimi geliştiriyorum.
-- 🔭 **Derin Öğrenme** modelleriyle deneyler yapıyor ve pratik uygulamalar geliştiriyorum.
+- 🔭 **Görüntü İşleme** problemleri üzerine odaklanarak **Evrişimli Sinir Ağları (CNN)** ile modeller geliştiriyor ve deneyler yapıyorum.
 - ⚙️ **Gömülü Sistemler** ve **Python** kullanarak fikirlerimi somut projelere dönüştürüyorum.
 
 ---
@@ -55,6 +55,9 @@
   </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  </a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
   </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
