@@ -31,7 +31,7 @@
 
 - 🌱 **Project Euler** ve **LeetCode** üzerinde problem çözme yeteneklerimi geliştiriyorum.
 - 🔭 **Görüntü İşleme** problemleri üzerine odaklanarak **Evrişimli Sinir Ağları (CNN)** ile modeller geliştiriyor ve deneyler yapıyorum.
-- ⚙️ **Gömülü Sistemler** ve **Python** kullanarak fikirlerimi somut projelere dönüştürüyorum.
+
 
 ---
 
